@@ -1,0 +1,15 @@
+**/__pycache__/
+__pycache__/
+
+outputs/*
+dataset/data/*
+data/*
+logs/*
+./idea
+.DS_Store
+
+### ### ###
+*.jpg
+*.JPG
+*.png
+*.PNG
