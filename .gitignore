@@ -1,0 +1,24 @@
+**/__pycache__/
+__pycache__/
+
+code/paper_review_001_NeRF/outputs/*
+code/paper_review_001_NeRF/dataset/data/*
+code/paper_review_001_NeRF/test_img/*
+code/paper_review_001_NeRF/logs/*
+code/paper_review_001_NeRF/./idea
+code/paper_review_001_NeRF/.DS_Store
+
+
+outputs/*
+dataset/data/*
+data/*
+logs/*
+./idea
+.DS_Store
+
+### ### ###
+*.jpg
+*.JPG
+*.png
+*.PNG
+*.logs
